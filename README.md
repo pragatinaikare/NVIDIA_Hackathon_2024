@@ -14,7 +14,7 @@ Welcome to our project for the NVIDIA ODSC Manor Halloween competition! This pro
 
 Our approach combines multiple advanced machine learning techniques, including:
 1. **Exploratory Data Analysis (EDA):** We examined the data for insights into feature distributions, relationships, and missing values.
-2. **Feature Engineering:** We performed feature engineering to select the only features important for predicting y accurately. 
+2. **Feature Engineering:** We performed feature Selection using XGBoost
 3. **Modeling:** We began with linear regression as a baseline, then progressively experimented with tree-based models. XGBoost emerged as the best-performing model, offering a strong balance of accuracy and interpretability for this dataset.
 4. **GPU-Acceleration with RAPIDS:** We leveraged GPU-accelerated libraries (`cudf and cuML) for faster data processing, enabling us to handle the dataset size efficiently.
 
