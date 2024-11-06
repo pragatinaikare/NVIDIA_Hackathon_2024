@@ -26,6 +26,10 @@ The primary goal of this project was to build a high-performing predictive model
 ## Results
 - Runtime: Achieved a total runtime of 1 minute and 55 seconds on NVIDIA’s A100 GPU.
 - Performance: Ranked in the top 8 in the NVIDIA Spooktacular Data Science Competition, ODSC West 2024.
-<img src="I3.jpeg" alt="Logo" width="200"/>
-<img src="I2.jpeg" alt="Logo" width="200"/>
-<img src="I1.jpeg" alt="Logo" width="200"/>
+
+<p align="center">
+<img src="I3.jpeg" alt="Logo" width="300"/>
+<img src="I2.jpeg" alt="Logo" width="300"/>
+<img src="I1.jpeg" alt="Logo" width="300"/>
+</p>
+
