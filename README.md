@@ -28,8 +28,8 @@ The primary goal of this project was to build a high-performing predictive model
 - Performance: Ranked in the top 8 in the NVIDIA Spooktacular Data Science Competition, ODSC West 2024.
 
 <p align="center">
-<img src="I3.jpeg" alt="Logo" width="300"/>
-<img src="I2.jpeg" alt="Logo" width="300"/>
-<img src="I1.jpeg" alt="Logo" width="300"/>
+<img src="I3.jpeg" alt="Logo" width="300" height = "300"/>
+<img src="I2.jpeg" alt="Logo" width="300" height = "300"/>
+<img src="I1.jpeg" alt="Logo" width="300" height = "300"/>
 </p>
 
