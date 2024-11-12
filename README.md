@@ -30,6 +30,6 @@ The primary goal of this project was to build a high-performing predictive model
 <p align="center">
 <img src="I3.jpeg" alt="Logo" width="400" height = "300"/>
 <img src="I2.jpeg" alt="Logo" width="400" height = "300"/>
-<img src="I1.jpeg" alt="Logo" width="400" height = "600"/>
+<img src="I1.jpeg" alt="Logo" width="400" height = "550"/>
 </p>
 
