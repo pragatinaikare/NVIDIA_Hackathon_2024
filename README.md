@@ -14,7 +14,6 @@ The primary goal of this project was to build a high-performing predictive model
 ## Features
 - Data Processing with cuDF: Efficient handling of large-scale tabular data, reducing I/O and preprocessing time significantly.
 - Model Training with cuML: High-performance GPU-based machine learning training using RAPIDS’ cuML library.
-- Target Encoding: Enhanced categorical data handling using Target Encoding for improved feature representation.
 - Hyperparameter Tuning: Utilized GridSearchCV with cuML to find optimal model parameters.
 
 ## Installation
